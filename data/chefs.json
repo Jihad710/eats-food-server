@@ -4,32 +4,49 @@
     "name": "Gordon Ramsay",
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gordon_Ramsay_cooking_%28262930612%29.jpg",
     "years_of_experience": 35,
-      "number_of_recipes": 325,
-      "likes": 7500000
+      "num_recipes": 325,
+      "likes": 7500000,
+      "rating": { "number": 4.5, "badge": "Excellent" },
+       "awarded": true,
+       "lifeStory": "Gordon Ramsay's cooking lifestory is one of passion, hard work, and dedication to his craft. He started cooking at a young age and pursued his culinary education at a vocational school for hotel management. From there, he worked in various restaurants across Europe, honing his skills and learning from some of the best chefs in the business."
+       
   },
     {
     "id": 2,
     "name": "Bobby Flay",
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bobby_Flay_Green_Bay_2007.jpg/800px-Bobby_Flay_Green_Bay_2007.jpg",
     "years_of_experience": 30,
-    "number_of_recipes": 140,
-    "likes": 2200000
+    "num_recipes": 140,
+    "likes": 2200000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": false,
+    "lifeStory": "Bobby Flay is a well-known American chef, restaurateur, and television personality. He was born on December 10, 1964, in New York City.Flay's passion for cooking started at an early age when he worked in his family's restaurant in Manhattan. He later attended the French Culinary Institute in New York City, where he learned the skills he needed to become a professional chef."
   },
     {
     "id": 3,
     "name": "Ina Garten",
     "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-11/ina-garten-mc-221122-05-ae7968.jpg",
     "years_of_experience": 40,
-    "number_of_recipes": 97,
-    "likes": 2300000
+    "num_recipes": 97,
+    "likes": 2300000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": false,
+    "lifeStory": "Ina Garten is a well-known American chef, author, and television personality, best known for her popular cooking show, Barefoot Contessa.She was born on February 2, 1948, in Brooklyn, New York.Garten's passion for cooking started at an early age, but she pursued a career in politics before ultimately deciding to focus on her love of food. She purchased a specialty food store in the Hamptons in 1978, which she named Barefoot Contessa after a movie she had seen."
   },
+    
+  
     {
     "id": 4,
     "name": "Anthony Bourdain",
     "photo_url": "https://people.com/thmb/OUu4rWgC68fiYRLsm2vu_ee6Nu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/anthony-bourdain-8-b8bbddf1d4f34897be970fd93845d0bd.jpg",
     "years_of_experience": 40,
     "num_recipes": 35,
-    "likes": 3700000
+    "likes": 3700000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": true,
+    "lifeStory": "Anthony Bourdain was an American chef, author, and television personality known for his culinary expertise and adventurous spirit. He was born on June 25, 1956, in New York City and tragically passed away on June 8, 2018.Bourdain's love for food began at an early age when he worked in various restaurants in Cape Cod, Massachusetts, during his teenage years. He went on to attend the Culinary Institute of America in New York, where he learned the skills that would later make him a successful chef."
+
+
   },
     {
     "id": 5,
@@ -37,7 +54,10 @@
     "photo_url": "https://i.insider.com/611441616fe08d0019979b97?width=1000&format=jpeg&auto=webp",
     "years_of_experience": 40,
     "num_recipes": 10,
-    "likes": 1500000
+    "likes": 1500000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": true,
+    "lifeStory": "Julia Child was a pioneering American chef, author, and television personality known for bringing French cuisine to the American public. She was born on August 15, 1912, in Pasadena, California, and passed away on August 13, 2004.Child's love for cooking began when she moved to Paris in 1948 with her husband, Paul, who was working for the U.S. government. There, she attended Le Cordon Bleu cooking school and trained under some of the best French chefs of the time."
   },
     {
     "id": 6,
@@ -45,7 +65,11 @@
     "photo_url": "https://cookingrush.net/wp-content/uploads/2023/02/Emeril-Lagasse-best-chefs.webp",
     "years_of_experience": 40,
     "num_recipes": 50,
-    "likes": 110000
+    "likes": 110000,"rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": false,
+    "lifeStory": "Emeril Lagasse is a renowned American chef, restaurateur, and television personality. He was born on October 15, 1959, in Fall River, Massachusetts.Lagasse's career began when he moved to New Orleans in the 1980s and became the executive chef at the famous Commander's Palace restaurant. He went on to open his own restaurants, including Emeril's in New Orleans and Emeril's Chop House in Pennsylvania."
   }
+  
+
   
 ]

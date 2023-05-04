@@ -4,6 +4,7 @@
         "id": 1,
         "chef_id": 1,
         "name": "Jollof Rice",
+        "trendyRecipes": false,
         "rating": 4.8,
         "ingredients": [
         "rice",
@@ -19,6 +20,7 @@
         "id": 2,
         "chef_id": 1,
         "name": "Piri Piri Chicken",
+        "trendyRecipes": true,
         "rating": 4.7,
         "ingredients": [
             "chicken",
@@ -34,6 +36,7 @@
         "id": 3,
         "chef_id": 1,
         "name": "Injera",
+        "trendyRecipes": false,
         "ingredients": [
             "teff flour",
             "water",
@@ -46,6 +49,7 @@
     {
         "id": 4,
         "chef_id": 2,
+        "trendyRecipes": false,
         "rating": 4.8,
         "name": "Bunny Chow",
         "ingredients": [
@@ -59,6 +63,7 @@
     {
         "id": 5,
         "chef_id": 2,
+        "trendyRecipes": false,
         "name": "Lemon Drizzle Cake",
         "rating": 4.8,
         "ingredients": [
@@ -75,6 +80,7 @@
     {
         "id": 6,
         "chef_id": 2,
+        "trendyRecipes": false,
         "name": "Spaghetti Carbonara",
         "rating": 4.7,
         "ingredients": [
@@ -90,6 +96,7 @@
         "id": 7,
         "chef_id": 4,
         "rating": 4.8,
+        "trendyRecipes": false,
         "name": "Suya",
         "ingredients": [
         "beef or chicken",
@@ -108,6 +115,7 @@
         "chef_id": 4,
         "rating": 4.9,
         "name": "Chakalaka",
+        "trendyRecipes": false,
         "ingredients": [
         "cabbage",
         "carrots",
@@ -122,6 +130,7 @@
         "id": 9,
         "chef_id": 4,
         "name": "Shepherd's Pie",
+        "trendyRecipes": false,
         "ingredients": [
             "2 lbs. ground beef",
             "1 onion, chopped",
@@ -142,6 +151,7 @@
         "id": 10,
         "chef_id": 3,
         "name": "Fufu",
+        "trendyRecipes": false,
         "rating": 4.8,
         "ingredients": [
             "cassava",
@@ -157,6 +167,7 @@
         "id": 11,
         "chef_id": 3,
         "name": "Pounded Yam",
+        "trendyRecipes": false,
         "rating": 4.7,
         "ingredients": [
             "yam",
@@ -170,6 +181,7 @@
         "id": 12,
         "chef_id": 3,
         "name": "Biltong",
+        "trendyRecipes": false,
         "rating": 4.7,
         "ingredients": [
         "beef",
@@ -186,6 +198,7 @@
         "chef_id": 5,
         "rating": 4.8,
         "name": "Maafe",
+        "trendyRecipes": false,
         "ingredients": [
             "chicken or beef",
             "peanuts",
@@ -202,6 +215,8 @@
         "id": 14,
         "chef_id": 5,
         "name": "Jollof Spaghetti",
+        "trendyRecipes": false,
+
         "rating": 4.8,
         "ingredients": [
             "spaghetti",
@@ -217,6 +232,8 @@
         "id": 15,
         "chef_id": 5,
         "name": "Kitfo",
+        "trendyRecipes": false,
+
         "rating": 4.7,
         "ingredients": [
         "ground beef",
@@ -232,6 +249,8 @@
         "chef_id": 6,
         "rating": 4.8,
         "name": "Braai",
+        "trendyRecipes": true,
+
         "ingredients": [
         "meat (steak, lamb chops, sausages)",
         "spices",
@@ -246,6 +265,7 @@
         "chef_id": 6,
         "rating": 4.9,
         "name": "Efo Riro",
+        "trendyRecipes": false,
         "ingredients": [
             "spinach",
             "tomatoes",
@@ -260,6 +280,8 @@
         "id": 18,
         "chef_id": 6,
         "name": "Piri Piri Chicken",
+        "trendyRecipes": false,
+
         "ingredients": [
         "chicken",
         "piri piri sauce",
